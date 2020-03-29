@@ -1,0 +1,15 @@
+.newItem{
+    color: black;
+  }
+
+.delete{
+    background-color: orangered;
+    color: white;
+}
+
+.add{
+    background-color: blue;
+    color: white;
+}
+
+
